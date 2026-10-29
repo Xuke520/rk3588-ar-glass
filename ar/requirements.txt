@@ -1,0 +1,20 @@
+# 基础依赖
+PyQt6>=6.5.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+python-docx>=0.8.11
+
+# RKNN模型依赖
+rknn-toolkit2>=1.5.0
+
+# 蓝牙控制依赖
+pybluez>=0.23
+
+# 图像处理依赖
+Pillow>=10.0.0
+
+# 网络通信依赖
+requests>=2.31.0
+
+# 性能优化依赖
+psutil>=5.9.0

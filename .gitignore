@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ppYOLO 第三方下载包（单文件超过 GitHub 100MB 限制）
+ppYOLO/data/data103078/*.zip
